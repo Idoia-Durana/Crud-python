@@ -1,5 +1,5 @@
 # Crud-python
-Crud-python es un proyecto que implementa un CRUD (Create, Read, Update, Delete) básico para la gestión de datos. Esta aplicación está diseñada para ser una herramienta de administración de registros, ideal para aprender los conceptos fundamentales de manipulación de datos en Python.
+Crud-python es un proyecto que implementa un CRUD (Create, Read, Update, Delete) básico para la gestión de datos. Esta aplicación está diseñada para ser una herramienta de administración de registros.
 
 ## Características Principales
 Crear: Añadir nuevos registros a la base de datos.
