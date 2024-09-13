@@ -9,7 +9,7 @@
 
 ## Requisitos del Sistema
 *  Python 3.8 o superior
-*  SQLite3 (incluido en Python estándar)
+*  SQLite3
 *  pip para la instalación de dependencias adicionales
 
 
